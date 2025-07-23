@@ -9,7 +9,7 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
     I chose Power Bi since I am more familiarized with it
-    
+
     > Who is your intended audience? 
     My main audience would be data analysts or reserchers
     
@@ -47,7 +47,7 @@
     I prioritized features like Indicator Name, Measure, and Subgroup because they directly support the insight I'm trying to highlight—such as trends in performance, engagement, or disparities.
 
     > What ‘underwater labour’ contributed to your final data visualization product?
-    It was not easy that is for sure. I evaluated which fields would add analytical value and which might clutter or confuse the visuals. Before even building charts, I ran descriptive stats and quick visuals to understand trends, outliers, and patterns.This helped shape what stories the dashboard could tell and guided my chart selection. I didn’t just slap on charts—I fine-tuned colors, legends, tooltips, and layouts to improve readability and accessibility.
+    It was not easy that is for sure. I evaluated which fields would add analytical value and which might clutter or confuse the visuals. Before even building charts, I ran descriptive stats and quick visuals to understand trends, outliers, and patterns.This helped shape what stories the dashboard could tell and guided my chart selection. I didn’t just slap on charts—I fine-tuned colors, legends, tooltips, and layouts to improve readability and accessibility
 
 
 
